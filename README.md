@@ -40,4 +40,4 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 If you have any questions or concerns about this Privacy Policy, please contact us at +20 101 306 8810.
 
 10. Crash Reporting and Diagnostics
-We use a third-party service called Sentry to help us identify and fix technical issues in the App. Sentry automatically collects diagnostic data such as device information, operating system version, app version, and crash logs. This data is used solely to improve app performance and reliability and is not used for tracking or advertising purposes. For more information about how Sentry handles data, please refer to (Sentry's Privacy Policy)[https://sentry.io/privacy/].
+We use a third-party service called Sentry to help us identify and fix technical issues in the App. Sentry automatically collects diagnostic data such as device information, operating system version, app version, and crash logs. This data is used solely to improve app performance and reliability and is not used for tracking or advertising purposes. For more information about how Sentry handles data, please refer to [Sentry's Privacy Policy](https://sentry.io/privacy/).
