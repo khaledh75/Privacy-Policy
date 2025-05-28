@@ -28,7 +28,7 @@ We implement appropriate security measures to protect your personal information 
 6. Your Choices
 You have the following choices regarding your personal information:
 - Access and Update: You can access and update your personal information through your account settings.
-- Delete Account: You can delete your account and all associated data by contacting us at [Contact Information].
+- Delete Account: You can delete your account and all associated data by contacting us at Bondoapp@gmail.com.
 
 7. Children's Privacy
 Our App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If we become aware that we have collected personal information from a child under 13, we will take steps to delete such information.
@@ -38,3 +38,6 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 
 9. Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at +20 101 306 8810.
+
+10. Crash Reporting and Diagnostics
+We use a third-party service called Sentry to help us identify and fix technical issues in the App. Sentry automatically collects diagnostic data such as device information, operating system version, app version, and crash logs. This data is used solely to improve app performance and reliability and is not used for tracking or advertising purposes. For more information about how Sentry handles data, please refer to (Sentry's Privacy Policy)[https://sentry.io/privacy/].
