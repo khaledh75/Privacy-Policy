@@ -6,6 +6,9 @@ Welcome to Bondo App ("the App"). Your privacy is important to us. This Privacy 
 2. Information We Collect
 We may collect the following types of information:
 - Personal Information: When you create an account, we may collect personal information such as your name, email address, and phone number.
+- Phone Number Verification: For safety and accountability, certain actions in the App 
+(such as sending private messages, replying to messages or voice notes, or posting 
+new voice/text notes) require you to provide and verify your phone number.
 - Voice Notes: When you record and post voice notes, we collect and store these recordings.
 - Location Data: We collect your location data to allow you to pin voice notes to specific locations on the map.
 - Chat Data: When using the chat feature, we collect and store the message content, sender ID, timestamps, and full name associated with each message.
@@ -18,6 +21,8 @@ We use your information to:
 - Personalize your experience on the App.
 - Communicate with you about updates, promotions, and other information related to the App.
 - Ensure the security and functionality of the App.
+- Verify user identity and prevent misuse of the App by requiring phone number verification 
+  before enabling private communication features.
 
 4. Sharing Your Information
 We do not sell or rent your personal information to third parties. We may share your information with:
