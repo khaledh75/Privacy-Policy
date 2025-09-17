@@ -6,13 +6,12 @@ Welcome to Bondo App ("the App"). Your privacy is important to us. This Privacy 
 2. Information We Collect
 We may collect the following types of information:
 - Personal Information: When you create an account, we may collect personal information such as your name, email address, and phone number.
-- Phone Number Verification: For safety and accountability, certain actions in the App 
-(such as sending private messages, replying to messages or voice notes, or posting 
-new voice/text notes) require you to provide and verify your phone number.
+- Phone Number Verification: For safety and accountability, certain actions in the App (such as sending private messages, replying to messages or voice notes, or posting new voice/text notes) require you to provide and verify your phone number.
 - Voice Notes: When you record and post voice notes, we collect and store these recordings.
-- Location Data: We collect your location data to allow you to pin voice notes to specific locations on the map.
+- Location Data: We collect your location data to allow you to pin voice notes to specific locations on the map. Location data may also be used for optional in-app surveys or features (such as visualizing aggregated preferences on a map). Participation in such surveys (e.g., football team choice) is completely optional, and you may choose not to provide a response. Individual responses are never displayed publicly, only aggregated results (e.g., map colors).
 - Chat Data: When using the chat feature, we collect and store the message content, sender ID, timestamps, and full name associated with each message.
 - Usage Data: We collect information about how you interact with the App, such as the features you use and the frequency of your usage.
+
 
 3. How We Use Your Information
 We use your information to:
@@ -21,8 +20,8 @@ We use your information to:
 - Personalize your experience on the App.
 - Communicate with you about updates, promotions, and other information related to the App.
 - Ensure the security and functionality of the App.
-- Verify user identity and prevent misuse of the App by requiring phone number verification 
-  before enabling private communication features.
+- Verify user identity and prevent misuse of the App by requiring phone number verification before enabling private communication features.
+- Provide interactive features such as optional surveys (e.g., football team  preferences) and display anonymized, aggregated results on the map without exposing individual user choices.
 
 4. Sharing Your Information
 We do not sell or rent your personal information to third parties. We may share your information with:
