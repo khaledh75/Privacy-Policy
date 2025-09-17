@@ -52,3 +52,9 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 
 10. Crash Reporting and Diagnostics
 We use a third-party service called Sentry to help us identify and fix technical issues in the App. Sentry automatically collects diagnostic data such as device information, operating system version, app version, and crash logs. This data is used solely to improve app performance and reliability and is not used for tracking or advertising purposes. For more information about how Sentry handles data, please refer to [Sentry's Privacy Policy](https://sentry.io/privacy/).
+
+11. Our App uses the Branch SDK to enable deep linking and, where enabled, marketing attribution. Depending on the configuration, Branch may process device identifiers, 
+engagement events, and campaign parameters (such as source, medium, and campaign name) to provide analytics and attribution. This information is used to help us understand 
+how users discover and interact with the App and to improve our services.  
+For more details about how Branch handles data, please review [Branch’s Privacy Policy](https://branch.io/policies/#privacy).
+
