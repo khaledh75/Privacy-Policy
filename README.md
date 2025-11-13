@@ -53,4 +53,6 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 10. Crash Reporting and Diagnostics
 We use a third-party service called Sentry to help us identify and fix technical issues in the App. Sentry automatically collects diagnostic data such as device information, operating system version, app version, and crash logs. This data is used solely to improve app performance and reliability and is not used for tracking or advertising purposes. For more information about how Sentry handles data, please refer to [Sentry's Privacy Policy](https://sentry.io/privacy/).
 
+11. App Feedback and Ratings: We may collect anonymous feedback and star ratings submitted via the in-app “Rate Us” feature. This information is stored locally and may be used to improve app functionality and user experience. Individual user ratings are not shared publicly or with third-party advertisers.
+
 
