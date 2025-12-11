@@ -22,11 +22,14 @@ We use your information to:
 - Ensure the security and functionality of the App.
 - Verify user identity and prevent misuse of the App by requiring phone number verification before enabling private communication features.
 - Provide interactive features such as optional surveys (e.g., football team  preferences) and display anonymized, aggregated results on the map without exposing individual user choices.
+- Enable deep linking and navigation 
 
 4. Sharing Your Information
 We do not sell or rent your personal information to third parties. We may share your information with:
 - Service Providers: We may share information with third-party service providers who help us operate and maintain the App (e.g., Firebase for backend infrastructure and chat storage).
 - Legal Requirements: We may disclose information if required by law or if we believe it is necessary to protect our rights, property, or safety, or the rights, property, or safety of others.
+- Branch.io for deep linking features
+  We do not share your data with (Advertisers, Marketing agencies, External data brokers)
 
 Note: Your chat messages are stored in Firebase and are accessible only to authorized admin personnel for moderation, safety, or legal purposes. We do not share chat data with any third-party advertising or analytics tools.
 
@@ -54,5 +57,15 @@ If you have any questions or concerns about this Privacy Policy, please contact 
 We use a third-party service called Sentry to help us identify and fix technical issues in the App. Sentry automatically collects diagnostic data such as device information, operating system version, app version, and crash logs. This data is used solely to improve app performance and reliability and is not used for tracking or advertising purposes. For more information about how Sentry handles data, please refer to [Sentry's Privacy Policy](https://sentry.io/privacy/).
 
 11. App Feedback and Ratings: We may collect anonymous feedback and star ratings submitted via the in-app “Rate Us” feature. This information is stored locally and may be used to improve app functionality and user experience. Individual user ratings are not shared publicly or with third-party advertisers.
+
+12. Deep Linking (Branch.io)
+We use Branch.io to support deep linking and referral functionality.
+Because Bondo Messenger is configured with:
+BranchAttributionLevel.NONE
+ - Branch does not collect advertising identifiers (such as AAID/IDFA)
+ - Branch does not perform ad attribution
+ - Branch only processes technical data necessary for deep linking, such as link parameters, device model, app version, and install/open events
+For more details, please review the Branch privacy policy:
+https://legal.branch.io/#privacy
 
 
