@@ -65,6 +65,7 @@ BranchAttributionLevel.NONE
  - Branch does not collect advertising identifiers (such as AAID/IDFA)
  - Branch does not perform ad attribution
  - Branch only processes technical data necessary for deep linking, such as link parameters, device model, app version, and install/open events
+ - This app uses Branch link click data to enable deep linking and measure app engagement. We do not track users outside this app or collect general web browsing history. No data is used for ads, marketing, or personalization.
 For more details, please review the Branch privacy policy:
 https://legal.branch.io/#privacy
 
