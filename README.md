@@ -66,6 +66,7 @@ BranchAttributionLevel.NONE
  - Branch does not perform ad attribution
  - Branch only processes technical data necessary for deep linking, such as link parameters, device model, app version, and install/open events
  - This app uses Branch link click data to enable deep linking and measure app engagement. We do not track users outside this app or collect general web browsing history. No data is used for ads, marketing, or personalization.
+ - This app collects device metadata (e.g., screen size, OS version) through Branch to ensure correct app functionality and measure app performance. No device data is used for advertising or marketing.
 For more details, please review the Branch privacy policy:
 https://legal.branch.io/#privacy
 
